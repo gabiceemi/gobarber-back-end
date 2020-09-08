@@ -1,0 +1,12 @@
+yarn init -y
+yarn add express
+yarn add typescript -D
+yarn tsc --init
+yarn add @types/express -D
+yarn add ts-node-dev -D
+
+criar id unico
+yarn add uuidv4
+
+pra lidar com datas
+yarn add date-fns
